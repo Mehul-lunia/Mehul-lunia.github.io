@@ -1,8 +1,14 @@
-# React + Vite
+# REACT + VITE PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![react-beautiful-dnd](https://th.bing.com/th/id/OIP.VecXoN9t8TGyAfP7imyUpwAAAA?pid=ImgDet&rs=1)
 
-Currently, two official plugins are available:
+## OVERVIEW
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is created to demonstrate the usage of basic drag-n-drop functionality from the react-beautiful-dnd library
+
+## STACK
+- HTML
+- CSS
+- REACT (JAVASCRIPT)
+- REACT-BEAUTIFUL-DND 
+- VITE 
